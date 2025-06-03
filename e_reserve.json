@@ -1,0 +1,32 @@
+{
+  "result": [
+  {
+    "nama ": "German Corner",
+    "lokasi": "Perpustakaan UPNVJ Lantai 3",
+    "kapasitas": "5 Orang",
+    "fasilitas": "Smart TV, Meja Diskusi, Wifi",
+    "foto": "https://i.postimg.cc/D8dS4jZ0/german.jpg"
+  },
+  {
+    "nama": "Kazakhstan Corner",
+    "lokasi": "Perpustakaan UPNVJ Lantai 3",
+    "kapasitas": "5 Orang",
+    "fasilitas": "Bean Bag, Meja Diskusi, WIfi",
+    "foto": "https://i.postimg.cc/DmGJny3q/kazakhstan.jpg"
+  },
+  {
+    "nama": "Ruang Diskusi Koleksi",
+    "lokasi": "Perpustakaan UPNVJ Lantai 4",
+    "kapasitas": "20 Orang",
+    "fasilitas": "Meja Diskusi Besar, Meja Personal, Wifi",
+    "foto": "https://i.postimg.cc/xcSkCD9B/koleksi.jpg"
+  },
+  {
+    "nama": "Ruang Baca PIKIR!",
+    "lokasi": "Perpustakaan UPNVJ Lantai 3",
+    "kapasitas": "10 Orang",
+    "fasilitas": "Meja Diskusi, Wifi, Smart TV",
+    "Poster": "https://i.postimg.cc/T5np9QJk/baca.jpg"
+  }
+ ]
+}
