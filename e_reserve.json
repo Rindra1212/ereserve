@@ -1,7 +1,7 @@
 {
   "result": [
   {
-    "nama ": "German Corner",
+    "nama": "German Corner",
     "lokasi": "Perpustakaan UPNVJ Lantai 3",
     "kapasitas": "5 Orang",
     "fasilitas": "Smart TV, Meja Diskusi, Wifi",
@@ -26,7 +26,7 @@
     "lokasi": "Perpustakaan UPNVJ Lantai 3",
     "kapasitas": "10 Orang",
     "fasilitas": "Meja Diskusi, Wifi, Smart TV",
-    "Poster": "https://i.postimg.cc/T5np9QJk/baca.jpg"
+    "foto": "https://i.postimg.cc/T5np9QJk/baca.jpg"
   }
  ]
 }
